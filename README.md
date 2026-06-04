@@ -27,7 +27,7 @@ As a **BSc.CSIT student**, I bridge the gap between academic theory and practica
 
 *   **[Password-Strength-Checker](https://github.com/prajwolacharyaa/Password-Strength-Checker)**: A sophisticated Flask-based utility using entropy calculation and pattern analysis to measure credential security.
 *   **[Professional Python Port Scanner](https://github.com/prajwolacharyaa/professional-python-port-scanner)**: A high-performance network reconnaissance tool for mapping services and attack surfaces.
-*   **[Account Finder](https://github.com/prajwolacharyaa/account_finder)**: An automated OSINT solution for rapid digital footprint discovery.
+*   **[Account finder from email address](https://github.com/prajwolacharyaa/account_finder)**: An automated OSINT solution for rapid digital footprint discovery.
 
 ---
 
@@ -36,11 +36,6 @@ As a **BSc.CSIT student**, I bridge the gap between academic theory and practica
 *   **Community**: Contributing to open-source cybersecurity repositories.
 *   **Academic Pursuit**: Leveraging my BSc.CSIT foundation to pursue advanced specializations in international research environments.
 
----
-
-
----
-> *“Security is a journey, not a destination.”*
 ---
 
 ## 📈 My Coding Activity
