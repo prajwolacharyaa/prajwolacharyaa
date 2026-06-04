@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Active_Learner-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity_Engineering-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square" />
 </p>
 
 ---
