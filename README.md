@@ -47,7 +47,6 @@ I strive for consistent progress in my learning journey.
 ## 🌐 Connect With Me
 *   **Portfolio**: [prajwolacharya1.com.np](https://prajwolacharya1.com.np)
 *   **LinkedIn**: [in/prajwol-acharya](https://www.linkedin.com/in/prajwol-acharya)
-*   **GitHub**: [github.com/prajwolacharyaa](https://github.com/prajwolacharyaa)
 
 ---
 > *"Security is a journey, not a destination."*
