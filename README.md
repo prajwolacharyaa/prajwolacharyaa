@@ -1,47 +1,39 @@
-# Prajwol Acharya
-### Cybersecurity Student | Ethical Hacking & Penetration Testing
+# Hi, I'm Prajwol Acharya! 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Active_Learner-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity_Engineering-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square" />
-</p>
+I am a **BSc.CSIT student** based in Nepal with a deep passion for cybersecurity. I believe that security isn't just about tools—it’s about understanding the "why" behind the vulnerability. When I’m not studying or tackling CTFs, you’ll find me building open-source utilities to automate security tasks and improve reconnaissance workflows.
 
 ---
 
-## 🛡️ Profile Summary
-As a **BSc.CSIT student**, I bridge the gap between academic theory and practical security operations. My work focuses on developing automated security utilities and mastering the offensive security lifecycle. I am currently dedicated to building robust tools for reconnaissance, OSINT, and network vulnerability assessment.
+## 🛠 My Toolkit
+I enjoy working at the intersection of development and security. These are the tools and languages I use daily:
+
+* **Security Stack:** Kali Linux, Nmap, Burp Suite, Wireshark, Metasploit, Hashcat, John the Ripper, OWASP ZAP.
+* **Programming:** Python (my primary language for security automation), Bash, C, Java, JavaScript.
+* **Core Interests:** Penetration Testing, OSINT, Vulnerability Assessment, Network Security.
 
 ---
 
-## 🛠 Technical Toolkit
+## 🚀 Projects I’m Proud Of
+I write code to solve problems I encounter while learning. Here are a few highlights:
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Security** | Kali Linux, Nmap, Burp Suite, Wireshark, OWASP ZAP, Metasploit, Hashcat, John the Ripper |
-| **Development** | Python , Bash, C, Java, JavaScript |
-| **Specialization** | OSINT, Penetration Testing, Network Reconnaissance, Vulnerability Assessment |
-
----
-
-## 🚀 Featured Projects
-
-*   **[Password-Strength-Checker](https://github.com/prajwolacharyaa/Password-Strength-Checker)**: A sophisticated Flask-based utility using entropy calculation and pattern analysis to measure credential security.
-*   **[Professional Python Port Scanner](https://github.com/prajwolacharyaa/professional-python-port-scanner)**: A high-performance network reconnaissance tool for mapping services and attack surfaces.
-*   **[Account Finder](https://github.com/prajwolacharyaa/account_finder)**: An automated OSINT solution for rapid digital footprint discovery.
+* **[Password-Strength-Checker](https://github.com/prajwolacharyaa/Password-Strength-Checker)**: A Flask-based tool that uses entropy and pattern analysis to evaluate credential security.
+* **[Professional Python Port Scanner](https://github.com/prajwolacharyaa/professional-python-port-scanner)**: A custom tool designed for rapid network service discovery.
+* **[Account Finder](https://github.com/prajwolacharyaa/account_finder)**: An OSINT utility built for digital footprint reconnaissance.
 
 ---
 
-## 📈 Roadmap & Goals
-*   **Research & Development**: Automating repetitive security tasks through custom Python scripting.
-*   **Community**: Contributing to open-source cybersecurity repositories.
-*   **Academic Pursuit**: Leveraging my BSc.CSIT foundation to pursue advanced specializations in international research environments.
+## 📈 My Coding Activity
+I strive for consistent progress in my learning journey.
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwolacharyaa&theme=react-dark&area=true&hide_border=true)
 
 ---
 
-## 🌐 Connect With Me
-*   **Portfolio**: [prajwolacharya1.com.np](https://prajwolacharya1.com.np)
-*   **LinkedIn**: [in/prajwol-acharya](https://www.linkedin.com/in/prajwol-acharya)
+## 🌐 Let's Connect
+I am always open to discussing cybersecurity research, new vulnerabilities, or collaborative projects.
+
+* **Portfolio:** [prajwolacharya1.com.np](https://prajwolacharya1.com.np)
+* **LinkedIn:** [in/prajwol-acharya](https://www.linkedin.com/in/prajwol-acharya)
 
 ---
-> *“Security is a journey, not a destination.”*
+> *"Security is a journey, not a destination."*
