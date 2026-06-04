@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi, I'm Prajwol Acharya 👋
 
-<!--
-**prajwolacharyaa/prajwolacharyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | Ethical Hacking | Penetration Testing | OSINT
 
-Here are some ideas to get you started:
+I'm a cybersecurity student from Nepal passionate about ethical hacking, penetration testing, OSINT, and building security tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- Cybersecurity Student
+- Ethical Hacking Enthusiast
+- Penetration Testing Learner
+- OSINT & Digital Forensics Explorer
+- Python Security Tool Developer
+- Future Cybersecurity Researcher
+
+---
+
+## 🚀 Current Focus
+
+- Penetration Testing
+- Vulnerability Assessment
+- OSINT Investigations
+- Network Security
+- Secure Coding Practices
+- Cybersecurity Labs (TryHackMe / HTB)
+
+---
+
+## 🔐 Featured Projects
+
+### Password Strength Checker
+Flask-based tool that analyzes password strength using entropy, patterns, and common password detection.
+
+### Professional Port Scanner
+Python-based network scanner to detect open ports and running services.
+
+### Account Finder (OSINT Tool)
+Tool for discovering publicly available online accounts using OSINT techniques.
+
+### Personal Portfolio Website
+My cybersecurity portfolio showcasing projects and skills.
+
+🌐 Website: www.prajwolacharya1.com.np
+
+---
+
+## 🛠️ Skills
+
+**Cybersecurity**
+- Ethical Hacking
+- Penetration Testing
+- OSINT
+- Network Security
+- Vulnerability Assessment
+
+**Programming**
+- Python
+- C
+- Java
+- JavaScript
+
+**Tools**
+- Linux
+- Nmap
+- Wireshark
+- Burp Suite
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Penetration Testing
+- Malware Analysis
+- Digital Forensics
+- Threat Intelligence
+- Security Research
+
+---
+
+## 🎯 Goals
+
+- Publish cybersecurity research
+- Contribute to open-source security tools
+- Pursue Master's in Cybersecurity abroad
+- Build real-world security solutions
+
+---
+
+## 🌍 Connect With Me
+
+- 🌐 Portfolio: www.prajwolacharya1.com.np  
+- 💼 LinkedIn: linkedin.com/in/prajwol-acharya  
+- 🐙 GitHub: github.com/prajwolacharyaa  
+
+---
+
+> "Security is a process, not a product."
