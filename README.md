@@ -13,17 +13,17 @@ As a **BSc.CSIT student**, I bridge the gap between academic theory and practica
 
 ---
 
-## 🛠 Technical Toolkit
+##  Technical Toolkit
 
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Security** | Kali Linux, Nmap, Burp Suite, Wireshark, OWASP ZAP, Metasploit, Hashcat, John the Ripper |
-| **Development** | Python (Advanced), Bash, C, Java, JavaScript |
+| **Development** | Python , Bash, C, Java, JavaScript |
 | **Specialization** | OSINT, Penetration Testing, Network Reconnaissance, Vulnerability Assessment |
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 *   **[Password-Strength-Checker](https://github.com/prajwolacharyaa/Password-Strength-Checker)**: A sophisticated Flask-based utility using entropy calculation and pattern analysis to measure credential security.
 *   **[Professional Python Port Scanner](https://github.com/prajwolacharyaa/professional-python-port-scanner)**: A high-performance network reconnaissance tool for mapping services and attack surfaces.
@@ -31,7 +31,7 @@ As a **BSc.CSIT student**, I bridge the gap between academic theory and practica
 
 ---
 
-## 📈 Roadmap & Goals
+## Roadmap & Goals
 *   **Research & Development**: Automating repetitive security tasks through custom Python scripting.
 *   **Community**: Contributing to open-source cybersecurity repositories.
 *   **Academic Pursuit**: Leveraging my BSc.CSIT foundation to pursue advanced specializations in international research environments.
