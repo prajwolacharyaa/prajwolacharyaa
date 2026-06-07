@@ -1,5 +1,5 @@
 # Prajwol Acharya
-### Cybersecurity Student |BSc.CSOT Student | Ethical Hacking & Penetration Testing
+### Cybersecurity Student |BSc.CSiT Student | Ethical Hacking & Penetration Testing
 
 
 <p align="left">
