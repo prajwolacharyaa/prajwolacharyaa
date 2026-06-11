@@ -45,9 +45,8 @@ I strive for consistent progress in my learning journey.
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwolacharyaa&theme=react-dark&area=true&hide_border=true)
 
 ---
-## 🌐 Connect With Me
+##  Connect With Me
 *   **Portfolio**: [prajwolacharya1.com.np](https://prajwolacharya1.com.np)
 *   **LinkedIn**: [in/prajwol-acharya](https://www.linkedin.com/in/prajwol-acharya)
-
 ---
 > *"Security is a journey, not a destination."*
