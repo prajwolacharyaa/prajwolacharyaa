@@ -38,13 +38,6 @@ As a **BSc.CSIT student**, I bridge the gap between academic theory and practica
 *   **Academic Pursuit**: Leveraging my BSc.CSIT foundation to pursue advanced specializations in international research environments.
 
 ---
-
-## 📈 My Coding Activity
-I strive for consistent progress in my learning journey.
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwolacharyaa&theme=react-dark&area=true&hide_border=true)
-
----
 ##  Connect With Me
 *   **Portfolio**: [prajwolacharya1.com.np](https://prajwolacharya1.com.np)
 *   **LinkedIn**: [in/prajwol-acharya](https://www.linkedin.com/in/prajwol-acharya)
